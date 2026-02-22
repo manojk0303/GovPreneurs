@@ -1,5 +1,11 @@
-# GovPreneurs — Auto-Proposal Engine
-**Role:** AI PM Intern Case Study | **By:** Manojkumar K
+# GovPreneurs — Auto-Proposal Engine 
+**Role:** AI PM Intern Case Study | **By:** Manojkumar K 
+
+**Demo video :** https://drive.google.com/file/d/1yrWjHOsFXkjfSuBul4_U--3mbYd36LK3/view?usp=sharing
+
+**UI design :** https://v0-govpreneurs.vercel.app/
+
+**RAG Workflow :** https://drive.google.com/file/d/1is8SkNIKZY_WkKoJo1cGgijmVO8i3xkT/view?usp=sharing
 
 ---
 
@@ -73,6 +79,5 @@ claim against the cited source.
 - **Right panel** — trust score, compliance checklist, Submit button
 - **Top bar** — opportunity name, deadline countdown, match score %
 
-LIVE AT : https://v0-govpreneurs.vercel.app/
 
 ---
