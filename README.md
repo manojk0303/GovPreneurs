@@ -1,4 +1,5 @@
 # GovPreneurs — Auto-Proposal Engine 
+(verdict : failed)
 **Role:** AI PM Intern Case Study | **By:** Manojkumar K 
 
 **Demo video :** https://drive.google.com/file/d/1yrWjHOsFXkjfSuBul4_U--3mbYd36LK3/view?usp=sharing
